@@ -1,3 +1,8 @@
+S.No.- 01
+date- 26/07/2021
+file name- payment form
+problems- i had problem in writing input type and etc.
+solution- i watched youtube video and wrote this here
 <body>
     <form action="">
         <h1>payment form</h1>
