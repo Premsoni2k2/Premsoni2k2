@@ -1,41 +1,42 @@
-S.No.- 01
-date- 26/07/2021
-file name- payment form
-problems- i had problem in writing input type and etc.
-solution- i watched youtube video and wrote this here
+# Studypod2.0
 <body>
-    <form action="">
-        <h1>payment form</h1>
-        <p>Required Fileds are followed by *</p>
-        <h2>contact information</h2>
-        <p>Name: * <input type="text" name="name" required></p>
-        <fieldset>
-            <legend>Gender * </legend>
-            <p>
-            Male <input type="radio" name="gender" id="Male" required>
-            Female <input type="radio" name="gender" id="female" required>
-            </p>
-       </fieldset>
-       <p>Address: <textarea name="address" id="address" cols="100" rows="8"></textarea></p>
-       <p>Email: * <input type="email" name="email" id="email" required></p>
-       <p>Pincode: * <input type="number" name="pincode" id="pincode" required></p>
-       <hr>
-       <h2>Payment information</h2>
-       <p>Card type: *
-           <select name="card_type" id="card_type"required>
-           <option value="">--select a card type--</option>
-           <option value="visa">visa</option>
-           <option value="rupay">rupay</option>
-           <option value="mastercard">mastercard</option>
-        </select>
-       </p>
-       <p>
-           Card Number: * <input type="number" name="card number" id="card number" required>
-       </p>
-       <p>
-           Expiration date: * <input type="date" name="exp_date" id="exp_date" required>
-       </p>
-       <p>CVV: * <input type="password" name="cvv" id="cvv" required></p>
-       <input type="submit" value="Pay Now">
-    </form>
+     <div>
+    <p><b>Name : </b><i>Prem Soni</i></p>
+    <p><b>Branch : </b><i>IT</i></p>
+    <p><b>Year : </b><i>1st</i></p>
+    <p><b>SP No. : </b><i>SP0201</i></p>
+    <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
+</div>
+    <div>
+    <table border="5">
+        <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
+        <thead>
+            <tr>
+                <th width="350">S.No</th>
+                <th width="350">Date</th>
+                <th width="350">File Name</th>
+                <th width="350">Task</th>
+                <th width="350">Difficulty</th>
+                <th width="350">Solution</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>26/07/2021</td>
+                    <td>CSS used in Exam form</td>
+                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>27/07/2021</td>
+                    <td>Styling</image></td>
+                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </body>
