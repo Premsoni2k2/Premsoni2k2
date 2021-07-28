@@ -40,7 +40,7 @@
                    <td>3</td>
                    <td>28/07/2021</td>
                    <td>table making.html</td>
-                   <td>background color <br>marks distribution (practical and theory)</td>
+                   <td>background color <br>marks distribution per subject(practical and theory)</td>
                    <td>to make border and saprate lines</td>
                    <td></td>
                </tr>
