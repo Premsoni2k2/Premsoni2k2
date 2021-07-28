@@ -35,7 +35,15 @@
                     <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
                     <td>NO</td>
                     <td></td>
-                </tr>
+               </tr>
+               <tr>
+                   <td>3</td>
+                   <td>28/07/2021</td>
+                   <td>table making</td>
+                   <td>background color <br>marks distribution (practical and theory)</td>
+                   <td>to make border and saprate lines</td>
+                   <td></td>
+               </tr>
             </tbody>
         </table>
     </div>
