@@ -42,7 +42,7 @@
                    <td>table making.html</td>
                    <td>background color <br>marks distribution per subject(practical and theory)</td>
                    <td>to make border and saprate lines</td>
-                   <td></td>
+                   <td>i get solution by readme file</td>
                </tr>
             </tbody>
         </table>
