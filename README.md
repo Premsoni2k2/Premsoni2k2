@@ -44,7 +44,15 @@
                    <td>to make border and saprate lines</td>
                    <td>i get solution by readme file</td>
                </tr>
-            </tbody>
+               <tr>
+                <td>4</td>
+                <td>29/07/2021</td>
+                <td>application form.html</td>
+                <td>application form <br>take student's all information <br>upload photo,signature,mark sheet etc.</td>
+                <td>NO</td>
+                <td></td>
+            </tr>
+             </tbody>
         </table>
     </div>
 </body>
