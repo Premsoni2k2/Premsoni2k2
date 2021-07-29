@@ -9,8 +9,7 @@
 </head>
 <body>
     <div id="bg">
-        <table>
-  <div id="border">
+        <table border="5">
       <thead>
             <tr>
             <th>Subject</th>
@@ -59,7 +58,7 @@
     </tbody>
     <tfoot>
         <th colspan="5">Result:Pass</th>
-    </tfoot></div> 
+    </tfoot> 
     </table></div>
 </body>
 </html>
