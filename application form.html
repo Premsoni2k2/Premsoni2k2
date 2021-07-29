@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addmission form</title>
+    <link rel="stylesheet" href="form style.css">
+</head>
+<body>
+    <form action="">
+    <div id="border"><div id="bg"><h1>Application form</h1></div></div>
+    <p>required fields are followed by *</p>
+    <div id="border"><div id="bg"><h2>contact information</h2></div></div>
+    <p>Student Name: * <input type="text" name="name" required></p>
+    <p>Father's Name: * <input type="text" name="name" required></p>
+    <p>Mother's name: * <input type="text" name="name" required></p>
+    <p>date of birth: * <input type="date" name="date of birth" id="date of birth" required></p>
+    <p>Email: * <input type="email" name="email" id="email" required></p>
+    <p>Mobile no.: * <input type="number" name="mobile no." id="mobile no." required></p>
+    <p>Pincode: * <input type="number" name="pincode" id="pincode" required></p>
+    <P>Aadhar no.: * <input type="number" name="aadhar no." id="aadhar no." required></P>
+    <p>Category *
+        <select name="category" id="category" required>
+            <option value="">--select--</option>
+            <option value="GEN">GEN</option>
+            <option value="OBC">OBC</option>
+            <option value="EWS">EWS</option>
+            <option value="SC">SC</option>
+            <option value="ST">ST</option>
+           </select>
+    </p>
+<fieldset>
+        <legend>Gender * </legend>
+    <p>
+    Male <input type="radio" name="gender" id="Male" required>
+    Female <input type="radio" name="gender" id="female" required>
+    </p>
+</fieldset>
+<p>Address: * <textarea name="address" id="address" cols="100" rows="2" required></textarea></p>
+<p>District: * <textarea name="district" id="district" cols="30" rows="1" required></textarea></p>
+<p>State: * <textarea name="state" id="state" cols="30" rows="1"></textarea></p>
+<p>Photo: * <input type="file"></p>
+<p>Signature: * <input type="file"></p>
+<hr>
+<hr>
+<div id="border"><div id="bg"><h2>study information</h2></div></div>
+<p> study mode *
+<select name="study mode" id="study mode" required>
+<option value="">--select--</option>
+<option value="online">online</option>
+<option value="online+offline">online+offline</option>
+</select>
+</p>
+<p> target examination *
+<select name="target examination" id="target examination" required>
+    <option value="">--select--</option>
+    <option value="JEE(Main+Advanced)">JEE(Main+Advanced)</option>
+    <option value="JEE(Main)">JEE(Main)</option>
+    <option value="NEET/AIIMS">NEET/AIIMS</option>
+    <option value="COMMERCE & LOW">COMMERCE & LOW</option>
+</select>
+</p>
+<P>target class *
+    <select name="target class" id="target class" required>
+        <option value="">--select--</option>
+        <option value="9th (8th to 9th moving)">9th (8th to 9th moving)</option>
+        <option value="10th (9th to 10th moving)">10th (9th to 10th moving)</option>
+        <option value="11th (10th to 11th moving)">11th (10th to 11th moving)</option>
+        <option value="12th (11th to 12th moving)">12th (11th to 12th moving)</option>
+        <option value="12th+ (12th passing/passed)">12th+ (12th passing/passed)</option>
+</select>
+</P>
+<p>% of last class: * <textarea name="% of last class" id="% of last class" cols="5" rows="1"></textarea></p>
+<p>last class marksheet: * <input type="file"></p>
+<hr>
+<hr>
+<input type="submit" value="submit">
+<input type="reset" value="reset">
+</form>
+</body>
