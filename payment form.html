@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>payment form</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <form action="">
-        <h1>payment form</h1>
+        <div id="div1"><h1>payment form</h1>
         <p>Required Fileds are followed by *</p>
         <h2>contact information</h2>
         <p>Name: * <input type="text" name="name" required></p>
@@ -19,7 +20,7 @@
             Female <input type="radio" name="gender" id="female" required>
             </p>
        </fieldset>
-       <p>Address: <textarea name="address" id="address" cols="100" rows="8"></textarea></p>
+       <p>Address: <textarea name="address" id="address" cols="52" rows="4"></textarea></p>
        <p>Email: * <input type="email" name="email" id="email" required></p>
        <p>Pincode: * <input type="number" name="pincode" id="pincode" required></p>
        <hr>
@@ -40,5 +41,6 @@
        </p>
        <p>CVV: * <input type="password" name="cvv" id="cvv" required></p>
        <input type="submit" value="Pay Now">
+       <input type="reset" value="reset"></div>
     </form>
 </body>
