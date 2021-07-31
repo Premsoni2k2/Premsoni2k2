@@ -69,7 +69,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>7</td>/td>
+                    <td>7</td>
                     <td>27/07/2021</td>
                     <td>payment form.html</image></td>
                     <td>use normal css, payment option, </td>
