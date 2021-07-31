@@ -91,24 +91,24 @@
                 <td>application form <br>take student's all information <br>upload photo,signature,mark sheet etc.</td>
                 <td>NO</td>
                 <td></td>
-            </tr>
-            <tr>
+               </tr>
+               <tr>
                 <td>10</td>
                 <td>30/07/2021</td>
                 <td>payment form.html</td>
                 <td>use more css in payment form</td>
                 <td>NO</td>
                 <td></td>
-            </tr>
-            <tr>
+               </tr>
+               <tr>
                 <td>11</td>
                 <td>31/07/2021</td>
                 <td>application form.html</td>
                 <td>use more css <br>to space from left side</td>
                 <td>in p tag i am unable to do spacing</td>
                 <td></td>
-            </tr>
-             </tbody>
+               </tr>
+              </tbody>
         </table>
     </div>
 </body>
