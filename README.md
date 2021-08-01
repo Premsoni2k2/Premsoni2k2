@@ -107,7 +107,15 @@
                 <td>use more css <br>to space from left side</td>
                 <td>in p tag i am unable to do spacing</td>
                 <td></td>
-               </tr>
+                </tr>
+                <tr>
+                <td>12</td>
+                <td>01/08/2021</td>
+                <td>no work due to fever</td>
+                <td>NO</td>
+                <td>NO</td>
+                <td></td>
+                </tr>
               </tbody>
         </table>
     </div>
