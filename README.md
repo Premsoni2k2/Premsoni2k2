@@ -122,7 +122,7 @@
                 <td>make weather app</td>
                 <td>read for weather app</td>
                 <td>NO</td>
-                <td>NO</td>
+                <td></td>
               </tbody>
         </table>
     </div>
