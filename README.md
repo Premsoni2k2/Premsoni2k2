@@ -116,6 +116,12 @@
                 <td>NO</td>
                 <td></td>
                 </tr>
+                <tr>
+                <td>13</td>
+                <td>02/08/2021</td>
+                <td>read for weather app</td>
+                <td>make weather app</td>
+                <td>
               </tbody>
         </table>
     </div>
