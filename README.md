@@ -132,6 +132,14 @@
                 <td>NO</td>
                 <td></td>
             </tr>
+            <tr>
+                  <td>15</td>
+                  <td>04/08/2021</td>
+                  <td>no work bcoz today i am out of town</td>
+                  <td>NO</td>
+                  <td>NO</td>
+                  <td></td>
+              </tr>
             </tbody>
         </table>
     </div>
