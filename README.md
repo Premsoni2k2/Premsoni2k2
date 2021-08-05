@@ -139,7 +139,15 @@
                   <td>NO</td>
                   <td>NO</td>
                   <td></td>
-              </tr>
+             </tr>
+              <tr>
+                <td>16</td>
+                <td>05/08/2021</td>
+                <td>make weather app</td>
+                <td>i was try for write weather app code</td>
+                <td>in style something went wrong that's i don't no</td>
+                <td>i will retry this tomorrow</td>
+            </tr>
             </tbody>
         </table>
     </div>
