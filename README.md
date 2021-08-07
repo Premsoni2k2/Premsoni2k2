@@ -148,6 +148,22 @@
                 <td>in style something went wrong that's i don't no</td>
                 <td>i will retry this tomorrow</td>
             </tr>
+            <tr>
+                <td>17</td>
+                <td>06/08/2021</td>
+                <td>make weather app</td>
+                <td>i was retry for write weather app code</td>
+                <td>same problem</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>07/08/2021</td>
+                <td>make weather app</td>
+                <td>make weather app by using html and css</td>
+                <td>I am unable to link API in this</td>
+                <td>i will retry this tomorrow</td>
+            </tr>
             </tbody>
         </table>
     </div>
