@@ -164,6 +164,14 @@
                 <td>I am unable to link API in this</td>
                 <td>i will retry this tomorrow</td>
             </tr>
+            <tr>
+                <td>19</td>
+                <td>08/08/2021</td>
+                <td>weather.html</td>
+                <td>make weather app by using html,css and java script</td>
+                <td>i am facing some problem to use API Key <br>bcoz i do some typing mistake in js</td>
+                <td>Corrected the code with the help of ANURAG GUPTA boss</td>
+            </tr>
             </tbody>
         </table>
     </div>
