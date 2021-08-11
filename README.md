@@ -183,7 +183,7 @@
               <tr>
                 <td>21</td>
                 <td>10/08/2021</td>
-                <td>basic of java script statrt</td>
+                <td>basic of java script start</td>
                 <td>complete java script</td>
                 <td>NO</td>
                 <td></td>
