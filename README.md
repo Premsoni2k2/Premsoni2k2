@@ -180,6 +180,22 @@
                   <td>NO</td>
                   <td></td>
               </tr>
+              <tr>
+                <td>21</td>
+                <td>10/08/2021</td>
+                <td>basic of java script statrt</td>
+                <td>complete java script</td>
+                <td>NO</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>11/08/2021</td>
+                <td>music player.html</td>
+                <td>making music player app</td>
+                <td>NO</td>
+                <td></td>
+            </tr>
             </tbody>
         </table>
     </div>
