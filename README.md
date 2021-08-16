@@ -220,6 +220,22 @@
                 <td>for start music keys not work</td>
                 <td>I will try it again tomorrow</td>
             </tr>
+            <tr>
+                <td>26</td>
+                <td>15/08/2021</td>
+                <td>music player.html</td>
+                <td>in app wrote js </td>
+                <td>i face same problem</td>
+                <td></td>
+            </tr>
+            <tr>
+                  <td>27</td>
+                  <td>16/08/2021</td>
+                  <td>no work due to illness</td>
+                  <td>NO</td>
+                  <td>NO</td>
+                  <td></td>
+             </tr>
             </tbody>
         </table>
     </div>
