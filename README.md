@@ -236,6 +236,14 @@
                   <td>NO</td>
                   <td></td>
              </tr>
+             <tr>
+                  <td>28</td>
+                  <td>17/08/2021</td>
+                  <td>analog clock</td>
+                  <td>make a analog clock by using html,css and java script</td>
+                  <td>to design clock and style</td>
+                  <td>by youtube</td>
+             </tr>
             </tbody>
         </table>
     </div>
